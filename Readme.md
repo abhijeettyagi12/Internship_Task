@@ -64,4 +64,49 @@ It allows users to **add**, **view**, and **remove** tasks — and it **saves th
 ```bash
 python calculator.py
 python Tod.py
-python News_scrapper.py
+python News_scrapper.py# Task 4: Flask API
+
+## 📌 Objective:
+Create a simple Flask API that shows a message when run.
+
+## 🛠 Tools Used:
+- Python
+- Flask
+
+## ▶️ How to Run:
+
+1. Install Flask:
+```bash
+# Task 4: Flask API
+
+## 📌 Objective:
+Create a simple Flask API that shows a message when run.
+
+## 🛠 Tools Used:
+- Python
+- Flask
+
+## ▶️ How to Run:
+
+1. Install Flask:
+```bash
+pip install flask
+# 📊 Tyagi Associate – Task 5
+
+## 🎯 Goal:
+Analyze mock trading data (2000 rows) using Python & Pandas.
+
+## 🧰 Tools:
+Python, Pandas, Matplotlib
+
+## 📁 Dataset:
+`Tyagi_Associate_Paper_Trading_Data_2000.csv`
+
+## 🔍 Steps:
+- Load & explore CSV
+- Calculate total Profit/Loss
+- Group by Stock Symbol
+- Plot trading value & profit/loss
+
+## 🧠 Result:
+Quick insights into stock-wise trade performance.gi
