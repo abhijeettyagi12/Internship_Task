@@ -62,10 +62,6 @@ It allows users to **add**, **view**, and **remove** tasks — and it **saves th
 4. Saves the headlines to a local text file `headlines.txt`.
 ## Run it
 ```bash
-python calculator.py
-python Tod.py
-python News_scrapper.py# Task 4: Flask API
-
 ## 📌 Objective:
 Create a simple Flask API that shows a message when run.
 
@@ -110,3 +106,7 @@ Python, Pandas, Matplotlib
 
 ## 🧠 Result:
 Quick insights into stock-wise trade performance.gi
+python calculator.py
+python Tod.py
+python News_scrapper.py# Task 4: Flask API
+
