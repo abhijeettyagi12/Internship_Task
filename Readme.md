@@ -109,4 +109,30 @@ Quick insights into stock-wise trade performance.gi
 python calculator.py
 python Tod.py
 python News_scrapper.py# Task 4: Flask API
+# Flask Portfolio Website
 
+This is a simple portfolio website built using Python Flask.  
+It includes:
+
+- Home page
+- Contact page
+- Backend with Flask
+- HTML templates in `templates/` folder
+
+Run it locally:
+```bash
+python app.py
+
+# Task 7 - Image Resizer Tool
+
+## 📌 Objective:
+Resize all images in a folder and save them in a different folder.
+
+## 🛠 Tools Used:
+- Python
+- Pillow (PIL)
+
+## ▶️ How to Run:
+1. Put images in `input_images/` folder
+2. Run command: `python resizer.py`
+3. Resized images will be saved in `output_images/`
