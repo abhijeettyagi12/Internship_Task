@@ -136,3 +136,33 @@ Resize all images in a folder and save them in a different folder.
 1. Put images in `input_images/` folder
 2. Run command: `python resizer.py`
 3. Resized images will be saved in `output_images/`
+
+TASK *8
+# Real Conversation Voice Chatbot 🎙️💬
+
+This is a Python-based voice chatbot that feels like you're talking to a real friend.  
+It responds in natural Hinglish, handles real-life phrases like:
+
+- "Kya kar rahe ho?"
+- "Tum mujhe Google par le chalo"
+- "Bore ho gaya hoon"
+- "Haryanvi song chalao"
+
+and much more!
+
+---
+
+## 🔧 Features
+
+- 🎤 Voice Input (Mic se baat)
+- 🔊 Voice Output (Natural replies)
+- 😄 Random friendly responses
+- 🌐 Opens Google, YouTube, Haryanvi songs on command
+
+---
+
+## 🚀 How to Run
+
+### Step 1: Install requirements
+```bash
+pip install speechrecognition pyttsx3 pyaudio
